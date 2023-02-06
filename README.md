@@ -1,4 +1,5 @@
-New determination of the production cross section for secondary positrons and electrons in the Galaxy Luca Orusa, Mattia Di Mauro, Fiorenza Donato, Michael Korsmeier 
+New determination of the production cross section for gamma rays in the Galaxy 
+Luca Orusa, Mattia Di Mauro, Fiorenza Donato, Michael Korsmeier 
 
 IF YOU USE THIS TABLE, PLEASE CITE THE ABOVE PAPER.
 Please acknowledge the use of these tables by citing the paper: . If you want to add these tables to a public code, please add the readme file available at this link(https://github.com/lucaorusa/gamma_cross_section) to the folder where the tables are located.
