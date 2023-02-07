@@ -10,7 +10,7 @@
 #          Luca Orusa, Mattia Di Mauro, Fiorenza Donato, and Michael Korsmeier    
 #         *-------------------------------------------------------------------*    
 #                                                              
-#                    arXiv:        [astro-ph.HE]    
+#                    arXiv:2302.01943        [astro-ph.HE]    
 #
 #          IF YOU USE THIS TABLE, PLEASE CITE THE ABOVE PAPER.    
 #          Please acknowledge the use of these tables by citing the paper: 
